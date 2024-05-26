@@ -4,7 +4,7 @@
 
 Барање 2: Control Flow Graph
 
-control flow graph (cfg.png) (C:\Users\Marko\SI_2024_lab2_203178.png)
+![control flow graph](cfg.png) 
 
 Барање 3: Цикломатска комплексност
 
